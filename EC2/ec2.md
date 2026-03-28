@@ -1,6 +1,4 @@
-Here are **exam-oriented + interview-oriented notes for EC2** (very important for **CLF-C02 + Amazon SDE interviews**) 📘
 
----
 
 # AWS EC2 (Elastic Compute Cloud) – Notes
 

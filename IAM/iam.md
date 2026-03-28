@@ -1,6 +1,4 @@
-Great strategy 👍 mentioning **AWS Certified Cloud Practitioner (CLF-C02)** in **Amazon SDE interview** can help — but interviewer will usually ask **practical understanding**, not just theory.
 
-Below are **most important questions from IAM** for **exam + interview**.
 
 ---
 
